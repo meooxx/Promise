@@ -1,0 +1,22 @@
+{
+  "name": "promis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promise.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meooxx/promise.js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meooxx/promise.js/issues"
+  },
+  "homepage": "https://github.com/meooxx/promise.js#readme",
+  "engines": {
+    "node": ">=11.0"
+  }
+}
