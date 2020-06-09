@@ -12,4 +12,4 @@ _==> 等同于 `下一步`_
 
 - [Promise/A+规范](https://promisesaplus.com/)
 - [Promise-implementing](https://www.promisejs.org/implementing/)
-- [github:then/promise](git@github.com:then/promise.git)
+- [github:then/promise](https://github.com/then/promise)
